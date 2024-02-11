@@ -17,6 +17,6 @@ Delete Recipe: Authors of recipes can delete their own recipes.
 
 #Installation
 Clone this repository: git clone https://github.com/Ainy07/recipe-app.git ---
-Install dependencies: pip install -r requirements.txt---
-Apply migrations: python manage.py migrate---
-Run the development server: python manage.py runserver
+Install dependencies: ##pip install -r requirements.txt---
+Apply migrations: ##python manage.py migrate---
+Run the development server: ##python manage.py runserver
